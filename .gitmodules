@@ -1,0 +1,4 @@
+[submodule "local_modules/subtree-library"]
+	path = local_modules/subtree-library
+	url = https://github.com/GabrielCorvalan/subtree-library.git
+	branch = master

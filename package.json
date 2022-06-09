@@ -10,7 +10,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
-    "subtree-library": "git+https://github.com/GabrielCorvalan/subtree-library"
+    "subtree-library": "file:local_modules/subtree-library"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.13",

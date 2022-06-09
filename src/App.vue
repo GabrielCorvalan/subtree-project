@@ -1,7 +1,7 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
-  <subtree-library-sample :initCounter="30" />
+  <subtree-library-sample />
 </template>
 
 <script>
